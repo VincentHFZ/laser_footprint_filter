@@ -1,0 +1,9 @@
+*.creator
+*.creator.user
+*.config
+*.includes
+*.files
+
+build
+devel
+

@@ -1,0 +1,4 @@
+将机器半径范围内的激光数据过滤掉；
+
+rosrun laser_footprint_filter laser_footprint_filter_node
+
